@@ -1,7 +1,9 @@
 ---
 name: Product 1
 tools: [christmas]
-image: https://via.placeholder.com/150
+image: https://via.placeholder.com/350x100.png?text=Product+1+Shot
+
+C/O https://placeholder.com/
 description: Product 1 Description
 ---
 
