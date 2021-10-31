@@ -2,6 +2,7 @@
 name: Product 3
 tools: [christmas]
 image: https://via.placeholder.com/350x150.png?text=Product+Shot
+description: Quisque lacus nulla, ultrices in arcu sit amet, dapibus efficitur enim. Nullam dignissim auctor justo, non venenatis justo.
 ---
 ![Product Shot](https://via.placeholder.com/750x300.png?text=Product+Shot "Product Shot")
 
