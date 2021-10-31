@@ -7,4 +7,4 @@ description: Product 1 Description
 
 description
 
-by now
+{% include elements/button.html link="https://www.google.com" text="Buy Now" block=true %}
