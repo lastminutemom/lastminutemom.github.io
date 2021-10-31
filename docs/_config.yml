@@ -27,10 +27,10 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Last Minute Mom
   image             : https://via.placeholder.com/300
-  behance           : your_username
+# behance           : your_username
 # dribbble          : your_username
 # email             : username@domain.com
-# facebook          : your_username
+  facebook          : MadebyLastMinuteMom
 # github            : your_username
 # gitlab            : your_username
   instagram         : madebylastminutemom
