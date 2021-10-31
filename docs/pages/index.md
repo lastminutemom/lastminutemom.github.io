@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Projects
+title: Home
 permalink: /
 weight: 1
 remote_projects: 
 
 ---
 
-{% include projects/index.html %}
+{% /index.html %}
