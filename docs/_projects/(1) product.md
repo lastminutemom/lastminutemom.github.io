@@ -1,6 +1,6 @@
 ---
 name: Product 1
-permalink: /products/chrismas1
+permalink: /products/product-a
 tools: [christmas]
 image: https://via.placeholder.com/350x150.png?text=Product+Shot
 ---
