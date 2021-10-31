@@ -3,7 +3,7 @@ name: Product 1
 permalink: /products/product-a
 tools: [christmas]
 image: https://via.placeholder.com/350x150.png?text=Product+Shot
-desciption: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed orci odio, mollis accumsan placerat et, suscipit et libero. Fusce sed lectus sed eros bibendum vehicula sed eu tortor. Nam ac purus sed libero gravida porta.
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed orci odio, mollis accumsan placerat et, suscipit et libero. Fusce sed lectus sed eros bibendum vehicula sed eu tortor. Nam ac purus sed libero gravida porta.
 ---
 ![Product Shot](https://via.placeholder.com/750x300.png?text=Product+Shot "Product Shot")
 
