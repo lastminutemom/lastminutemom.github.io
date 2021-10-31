@@ -2,6 +2,7 @@
 name: Product 4
 tools: [christmas]
 image: https://via.placeholder.com/350x150.png?text=Product+Shot
+description: Vitae ultricies tellus tristique ut.
 ---
 ![Product Shot](https://via.placeholder.com/750x300.png?text=Product+Shot "Product Shot")
 
