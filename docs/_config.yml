@@ -76,7 +76,7 @@ analytics:
 defaults:
   - scope:
       path: ""
-      type: "projects"
+      type: "catalog"
     values:
       layout: "page"
   - scope:
