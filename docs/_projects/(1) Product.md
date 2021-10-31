@@ -1,7 +1,10 @@
 ---
 name: Product 1
-tools: [nothing, important]
+tools: [christmas]
 image: https://via.placeholder.com/300
 description: Product 1 Description
-external_url: https://www.google.com
 ---
+
+description
+
+by now
