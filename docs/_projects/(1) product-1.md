@@ -1,7 +1,7 @@
 ---
 name: Product 1
 tools: [christmas]
-image: https://via.placeholder.com/350x100.png?text=Product+Shot
+image: https://via.placeholder.com/350x150.png?text=Product+Shot
 ---
 
 description
