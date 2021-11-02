@@ -2,10 +2,10 @@
 name: Product 1
 permalink: /products/product-a
 tools: [christmas]
-image: /assets/products/product-a/350x150.png
+image: ../assets/products/product-a/350x150.png
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed orci odio, mollis accumsan placerat et, suscipit et libero. Fusce sed lectus sed eros bibendum vehicula sed eu tortor. Nam ac purus sed libero gravida porta.
 ---
-![Product Shot](/assets/products/product-a/350x150.png "Product Shot")
+![Product Shot](../assets/products/product-a/350x150.png "Product Shot")
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed orci odio, mollis accumsan placerat et, suscipit et libero. Fusce sed lectus sed eros bibendum vehicula sed eu tortor. Nam ac purus sed libero gravida porta. Nulla sit amet efficitur velit, sit amet tempus urna. Etiam sit amet pharetra neque, sit amet interdum odio. Integer ornare risus turpis. Cras iaculis nec mi at pretium. Maecenas vehicula est a rhoncus maximus. Sed sagittis elementum ante a tristique. Vestibulum gravida volutpat eros eget consectetur. Fusce quis eros ac dui porta elementum eget ultricies lacus. Nullam arcu dui, pretium et suscipit at, pulvinar a sem. Nam gravida orci nisl, id finibus magna laoreet elementum. Nam dapibus leo tristique lorem iaculis imperdiet.
 
