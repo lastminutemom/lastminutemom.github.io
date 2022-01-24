@@ -1,11 +1,11 @@
 ---
-name: Personalized Tooth Fairy Bag
-permalink: /products/product-a
-tools: [kids]
-image: ../assets/products/product-a/Satin Tooth Fairy Bags.png
-description: 5x7 Satin bags are sublimated (dyed) with the chosen image. You can choose between the fairy and teethe images available.
+name: Personalized Men's Boxers
+permalink: /products/customboxershtv
+tools: [valentinesday] 
+image: ../assets/products/customboxershtv/1.png
+description: Personalized men's boxers which can be customized as you like. $15 each
 ---
-![Product Shot](../assets/products/product-a/Satin Tooth Fairy Bags.png "Product Shot")
+![Product Shot](../assets/products/customboxershtv/1.png "Custom Boxers")
 
 Please message me on Facebook (@MadebyLastMinuteMom) or gmail (madebylastminutemom@gmail.com) chat if you would like to place an order or ask quesions 
 
