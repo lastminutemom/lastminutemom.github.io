@@ -1,9 +1,9 @@
 name: Personalized Easter Bunnies
 tools: [Easter]
-image: ../assets/products/customboxersphoto/1.png
+image: ../assets/products/easterbunnies/bunnies.png
 description: Customize your bunnies ears! $25
 ---
-![Product Shot](../assets/products/customboxersphoto/1.png "Custom Photo Boxers")
+![Product Shot](../assets/products/easterbunnies/bunnies.png "Personalized Easter Bunnies")
 
 Please message me on Facebook (@MadebyLastMinuteMom) if you would like to place an order or ask any questions.
 
