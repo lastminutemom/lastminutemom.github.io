@@ -1,10 +1,10 @@
 ---
 name: Personalized Boxers with Photos
 tools: [ValentinesDay]
-image: ../_projectsassets/customboxersphoto/1.pnh
+image: ../assets/products/customboxersphoto/1.png
 description: Personalized boxers with photos. $20
 ---
-![Product Shot](https://via.placeholder.com/750x300.png?text=Product+Shot "Product Shot")
+![Product Shot](../assets/products/customboxersphoto/1.png "Custom Photo Boxers")
 
 Please message me on Facebook (@MadebyLastMinuteMom) if you would like to place an order or ask any questions.
 
