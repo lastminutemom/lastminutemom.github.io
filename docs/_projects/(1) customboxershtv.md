@@ -1,7 +1,7 @@
 ---
 name: Personalized Men's Boxers
 permalink: /products/customboxershtv
-tools: [valentinesday] 
+tools: [ValentinesDay] 
 image: ../assets/products/customboxershtv/1.png
 description: Personalized men's boxers which can be customized as you like. $15 each
 ---
