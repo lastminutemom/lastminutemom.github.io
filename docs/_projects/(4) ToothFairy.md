@@ -2,7 +2,7 @@
 name: Product 4
 permalink: /products/ToothFairy
 tools: [Kids]
-image: ../products/assets/ToothFairy/Satin Tooth Fairy Bags.png
+image: ../products/assets/ToothFairy/Satin%20Tooth%20Fairy%20Bags.png
 description: Customizable Tooth Fairy Bags
 ---
 
