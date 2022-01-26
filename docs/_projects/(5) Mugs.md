@@ -1,9 +1,9 @@
 ---
-name: Personalized Men's Boxers
-permalink: /products/customboxershtv
+name: Personalized Mugs
+permalink: /products/Mugs
 tools: [ValentinesDay] 
-image: ../assets/products/customboxershtv/1.png
-description: Personalized men's boxers which can be customized as you like. $15 each
+image: ./assets/products/Mugs/CustomMugsforValentinesDay.png
+description: Personalized Mugs! 13$ and up...
 ---
 
 
