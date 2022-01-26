@@ -1,10 +1,11 @@
 ---
-name: Custom Mugs
-permalink: /products/Mugs
-tools: [ValentinesDay] [Mugs]
-image: ../assets/products/Mugs/CustomMugsforValentinesDay.png
-description: Custom Mugs. $13 and up
+name: Personalized Men's Boxers
+permalink: /products/customboxershtv
+tools: [ValentinesDay] 
+image: ../assets/products/customboxershtv/1.png
+description: Personalized men's boxers which can be customized as you like. $15 each
 ---
+
 
 ![Product Shot](../assets/products/Mugs/CustomMugsforValentinesDay.png "Custom Mugs")
 
