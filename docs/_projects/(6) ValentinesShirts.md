@@ -1,5 +1,6 @@
 ---
 name: Personalized Valentine's Day Shirts
+permalink: /products/ValentinesShirts
 tools: [ValentinesDay]
 image: ../assets/products/ValentinesShirts/ValentinesDayShirts.png
 description: Personalized boxers with photos. $20
