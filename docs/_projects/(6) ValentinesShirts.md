@@ -1,5 +1,3 @@
-ValentinesDayShirts.png
-
 ---
 name: Personalized Valentine's Day Shirts
 tools: [ValentinesDay]
