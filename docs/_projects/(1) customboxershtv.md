@@ -19,6 +19,5 @@ description: Personalized men's boxers which can be customized as you like. $15 
 ![Product Shot](../assets/products/customboxershtv/12.png "Custom Boxers")
 ![Product Shot](../assets/products/customboxershtv/13.png "Custom Boxers")
 
-Please message me on Facebook (@MadebyLastMinuteMom) if you would like to place an order or ask any questions.
 
-{% include elements/button.html link="https://www.google.com" text="Buy Now" block=true %}
+{% include elements/button.html link="http://m.me/madebylastminutemom" text="Message Me on Facebook to Buy Now or ask Questions" block=true %}
