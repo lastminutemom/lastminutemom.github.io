@@ -9,4 +9,5 @@ description: Personalized Mugs! 13$ and up...
 
 ![Product Shot](../assets/products/Mugs/CustomMugsforValentinesDay.png "Custom Mugs")
 
-Please message me on Facebook (@MadebyLastMinuteMom) if you would like to place an order or ask any questions.
+
+{% include elements/button.html link="http://m.me/madebylastminutemom" text="Message Me on Facebook to Buy Now or ask Questions" block=true %}
