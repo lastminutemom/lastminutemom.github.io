@@ -1,4 +1,3 @@
-
 ---
 name: Custom Mugs
 permalink: /products/Mugs
