@@ -13,4 +13,4 @@ description: Valentine's Day Onesies and shirts $15 and up.
 ## Designs can be customized to suit, babies, children or adults. I have white onesies on hand and some shirts on hand. Others can be ordered in. 
 - Onesies - $15
 - Kids Shirts - $20
-- Adult Shirts - $25-30 depending on the design
+- Adult Shirts - $30 
